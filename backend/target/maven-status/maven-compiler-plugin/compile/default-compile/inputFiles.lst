@@ -1,0 +1,16 @@
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\service\TelegramService.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\repository\PendingRequestRepository.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\dto\UserRequestDto.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\service\UserService.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\config\AppConfig.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\config\CorsConfig.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\controller\TelegramWebhookController.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\controller\UserController.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\TelegramApprovalApplication.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\model\PendingRequest.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\model\RequestStatus.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\dto\TelegramUpdate.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\model\User.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\config\AsyncConfig.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\repository\UserRepository.java
+C:\Users\dinagaran\Downloads\DBMS 13a\backend\src\main\java\com\telegramapproval\model\ActionType.java
