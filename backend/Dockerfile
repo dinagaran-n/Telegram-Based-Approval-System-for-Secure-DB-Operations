@@ -14,4 +14,4 @@ RUN chmod +x mvnw
 RUN ./mvnw clean package -DskipTests
 
 # Run the jar
-CMD ["java", "-jar", "target/*.jar"]
+CMD ["java", "-jar", "target/telegram-approval-backend-0.0.1-SNAPSHOT.jar"]
